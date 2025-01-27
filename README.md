@@ -21,4 +21,4 @@ Backup Download Link:
 
 #### Password: 123
 ----------
-## Warning: This is a malware and will completly destroy your computer if you run it on your main machine, please run it on a VM (Virtual Machine) or a Windows VPS, I am not responsible for any of your actions and I have made it very clear that this should NEVER be executed on a real computer, Love ya ma fellow Murder-Drones fans <3.
+## Warning: This is a malware and will completely destroy your computer if you run it on your main machine, please run it on a VM (Virtual Machine) or a Windows VPS, I am not responsible for any of your actions and I have made it very clear that this should NEVER be executed on a real computer, Love ya ma fellow Murder-Drones fans <3.
